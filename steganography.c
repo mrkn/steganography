@@ -1,5 +1,5 @@
 #include <ruby.h>
-#include <jpeg.h>
+#include <jpeglib.h>
 
 struct steg_image {
   size_t width;
